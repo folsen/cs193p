@@ -1,0 +1,44 @@
+THelloPoly
+v7
+r1
+cCheck dependencies
+
+N/Users/IQue/kod/cs193p/HelloPoly/MainWindow.xib
+c000000004AE0A0A10000000000004FBA
+t1256235169
+s20410
+
+N/Users/IQue/kod/cs193p/HelloPoly/build/Release/HelloPoly.app
+t2
+s0
+
+N/Users/IQue/kod/cs193p/HelloPoly/build/Release/HelloPoly.app/Contents/Info.plist
+t2
+s0
+
+N/Users/IQue/kod/cs193p/HelloPoly/build/Release/HelloPoly.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/IQue/kod/cs193p/HelloPoly/build/Release/HelloPoly.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NHelloPoly-Info.plist
+c000000004ADF3A2A000000000000038D
+t1256143402
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295980999#295980999#0(75"[BEROR]error: There is no SDK with the name or path 'iphonesimulator3.1.2'1(4@67"error: There is no SDK with the name or path 'iphonesimulator3.1.2'295980999#18446744073709551615#0#0(1@0"0(0#1#0"8617169664#0"0#
+
+CCompileXIB /Users/IQue/kod/cs193p/HelloPoly/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/IQue/kod/cs193p/HelloPoly/build/Release/HelloPoly.app/Contents/Info.plist HelloPoly-Info.plist
+r0
+
+CTouch /Users/IQue/kod/cs193p/HelloPoly/build/Release/HelloPoly.app
+r0
+

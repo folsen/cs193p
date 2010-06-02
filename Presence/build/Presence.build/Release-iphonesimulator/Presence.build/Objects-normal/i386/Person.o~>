@@ -1,0 +1,2 @@
+/Users/IQue/kod/cs193p/Presence/Classes/Person.m:30: warning: property 'timeline' requires method '-timeline' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/IQue/kod/cs193p/Presence/Classes/Person.m:30: warning: property 'timeline' requires the method 'setTimeline:' to be defined - use @synthesize, @dynamic or provide a method implementation
